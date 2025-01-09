@@ -21,7 +21,7 @@
 要开始同步源码，请使用这些命令
 
 ```shell
-repo init -u https://github.com/exthmui/android.git -b exthm-11
+repo init -u https://github.com/exthmui-legacy/android.git -b exthm-11
 repo sync
 ```
 
