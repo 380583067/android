@@ -19,8 +19,8 @@ export PATH="$HOME/bin:$PATH"
 ```
 mkdir -p ~/android/exthm
 cd ~/android/exthm
-repo init -u https://github.com/exthmui/android.git -b exthm-9
-(repo init -u https://github.com/exthmui/android.git -b exthm-9 --depth=1  //仅Clone一层代码，可以使Clone完成的更快)
+repo init -u https://github.com/exthmui-legacy/android.git -b exthm-9
+(repo init -u https://github.com/exthmui-legacy/android.git -b exthm-9 --depth=1  //仅Clone一层代码，可以使Clone完成的更快)
 ```
 同步源码
 ```
